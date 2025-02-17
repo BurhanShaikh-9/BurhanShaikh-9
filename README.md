@@ -5,7 +5,7 @@ Beyond coding, I bring strong communication skills and thrive in collaborative t
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://burhan-shaikh.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/burhan-shaikh-dev)
 [![instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nyx9_dev)
